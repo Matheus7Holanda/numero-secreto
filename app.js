@@ -1,6 +1,7 @@
 let listaGenerica = [];
 let linguagensDeProgramacao = ['Java', 'Ruby', 'GoLang'];
 linguagensDeProgramacao.push('JavaScript','C','C++','Kotlin','Python');
+let limitesNumeros = 100;
 console.log(linguagensDeProgramacao);
 let nomesCompletos = ['Matheus','Holanda','Não sei'];
 console.log(nomesCompletos[0]);
